@@ -6,9 +6,7 @@ sap.ui.define(["sap/ui/core/mvc/Controller",
     return Controller.extend("UI5Camera.controller.App", {
 
         onInit : function () {
-            alert("a million dollars isn't cool, you know what's cool?");
-            alert("what?");
-            alert("A BILLION DOLLARS!!");
+            alert("Happy Wednesday!");
         }
     });
 });
